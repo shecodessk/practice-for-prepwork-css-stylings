@@ -37,12 +37,15 @@ p {
 
 .logo {
     background-size: cover;
-    background-image: url();
+    background-image: url(https://appacademy.github.io/styleguide/assets/logo/logo-emblem-black-1000.png);
     background-color: ;
-    height: ;
-    width: ;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    margin: 0 auto;
 }
 .story-box{
+
     padding: 20px;
     background-color:rgba(198, 210, 232, 0.3);
     width: 40%;
